@@ -1,0 +1,9 @@
+opencv-python #cv2
+cvzone
+numpy
+math
+os
+time
+tensorflow
+tnsorflow.keras
+sikit-learn
