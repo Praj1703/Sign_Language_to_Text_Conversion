@@ -69,6 +69,7 @@ The training script loads the dataset, defines the model architecture, and train
 - **Real-Time Recognition**: Modify the `main.py` file to integrate real-time gesture recognition with the trained model.
 
 **Acknowledgements**
+
 **YouTube:** We thank YouTube for hosting valuable tutorials and educational content related to computer 
 vision and machine learning, which greatly contributed to the development of this project.
 
