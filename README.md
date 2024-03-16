@@ -1,7 +1,8 @@
 ```markdown
 # Hand Gesture Recognition Project
 
-This project utilizes computer vision techniques to recognize hand gestures using a webcam. It includes functionalities for using an existing dataset, creating a new dataset, and training a model for gesture classification.
+This project utilizes computer vision techniques to recognize hand gestures using a webcam. It includes
+functionalities for using an existing dataset, creating a new dataset, and training a model for gesture classification.
 
 ## Requirements
 
@@ -68,5 +69,8 @@ The training script loads the dataset, defines the model architecture, and train
 - **Real-Time Recognition**: Modify the `main.py` file to integrate real-time gesture recognition with the trained model.
 
 **Acknowledgements**
-YouTube: We thank YouTube for hosting valuable tutorials and educational content related to computer vision and machine learning, which greatly contributed to the development of this project.
-GitHub: We acknowledge the open-source community on GitHub for providing access to libraries, frameworks, and resources that were instrumental in building this project.
+**YouTube:** We thank YouTube for hosting valuable tutorials and educational content related to computer 
+vision and machine learning, which greatly contributed to the development of this project.
+
+**GitHub:** We acknowledge the open-source community on GitHub for providing access to libraries, frameworks, 
+and resources that were instrumental in building this project.
